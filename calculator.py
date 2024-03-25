@@ -2,7 +2,7 @@ import sys
 import re
 
 # NIE uczcie się na tym Pythona!
-
+#Hello
 def add(*numbers: int|float) -> int|float:
     sum_val = 0
     for n in numbers:
